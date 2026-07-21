@@ -1,0 +1,30 @@
+[
+  {
+    "time": "18:30",
+    "type": "LIVE",
+    "sport": "Fußball",
+    "text": "Topspiel des Abends im Fokus.",
+    "link": "football.html"
+  },
+  {
+    "time": "17:45",
+    "type": "NEWS",
+    "sport": "Tennis",
+    "text": "Turniervorschau und Match-Highlights aktualisiert.",
+    "link": "tennis.html"
+  },
+  {
+    "time": "16:20",
+    "type": "UPDATE",
+    "sport": "Basketball",
+    "text": "Game Night mit den wichtigsten Storylines.",
+    "link": "basketball.html"
+  },
+  {
+    "time": "15:10",
+    "type": "DARTS",
+    "sport": "Darts",
+    "text": "Abend-Session und Major-Highlights im Überblick.",
+    "link": "darts.html"
+  }
+]
