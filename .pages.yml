@@ -1,0 +1,28 @@
+media:
+  input: assets
+  output: /assets
+
+content:
+  - name: site
+    label: Website Einstellungen
+    type: file
+    path: data/site.json
+    format: code
+    options:
+      language: json
+
+  - name: ticker
+    label: Weekly Sports Ticker
+    type: file
+    path: data/ticker.json
+    format: code
+    options:
+      language: json
+
+  - name: weekly_preview
+    label: Wochenvorschau
+    type: file
+    path: data/weekly-preview.json
+    format: code
+    options:
+      language: json
