@@ -1,0 +1,18 @@
+{
+  "headline": "Wochenvorschau",
+  "description": "Die wichtigsten Events der Woche: Topspiele, Turniere, Entscheidungen und Must-Watch-Momente.",
+  "cards": [
+    {
+      "title": "Spiel der Woche",
+      "text": "Das wichtigste Match der kommenden Tage – kompakt eingeordnet."
+    },
+    {
+      "title": "Turnier der Woche",
+      "text": "Das Sportevent, das in dieser Woche besonders im Fokus steht."
+    },
+    {
+      "title": "Must-Watch",
+      "text": "Das Highlight, das du diese Woche nicht verpassen solltest."
+    }
+  ]
+}
